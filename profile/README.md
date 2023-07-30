@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" maxheight="50" alt="WaldWatch Logo" />
+  <img src="/profile/logo.png" maxheight="50" alt="WaldWatch Logo" />
 </p>
 
 Community driven health monitoring of forests to support reforestration and maintaining a healthy natural ecosystem.
